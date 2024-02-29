@@ -1,7 +1,7 @@
 
 # Learning OpenCV in Python
 
-I have done a course in Digital Image Processing from NPTEL, and I found the topic far more  interesting as expected from it`s reputation. I have found this particular very helpful.
+I have done a course in Digital Image Processing from NPTEL, and I found the topic far more  interesting as expected from it`s reputation. But we cant learn only from theory, we need to implement them too ! I have found this particular video  very helpful.
 
 https://youtu.be/WQeoO7MI0Bs?si=RziA1bzDOknTgCKN    
 
