@@ -12,4 +12,4 @@ I have included all the chapters in the git folder.
 Happy Learning! 
 
 
-I have saved the processed images  in the Saved Images, and the lena(picture) and flower(video) in the Test Images.
+I have saved the processed images  in the Saved Images, and the lena(test picture) and flower(test video) in the Test Images.
