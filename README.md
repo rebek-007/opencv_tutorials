@@ -10,3 +10,6 @@ https://youtu.be/WQeoO7MI0Bs?si=RziA1bzDOknTgCKN
 
 I have included all the chapters in the git folder.
 Happy Learning! 
+
+
+I have saved the processed images  in the Saved Images, and the lena(picture) and flower(video) in the Test Images.
