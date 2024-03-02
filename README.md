@@ -8,7 +8,7 @@ https://youtu.be/WQeoO7MI0Bs?si=RziA1bzDOknTgCKN
    LEARN OPENCV in 3 HOURS with Python by Murtaza's Workshop - Robotics and AI
 
 
-I have included all the chapters in the git folder.
+I have included all the chapters in the git repository.
 Happy Learning! 
 
 
